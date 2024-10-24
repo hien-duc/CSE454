@@ -12,5 +12,6 @@ git remote set-url upstream https://github.com/PHPMailer/PHPMailer.git
 ```
 ## History
 
-- [Project Name] was originally created in [Year] by [Author Name] as a [SourceForge project](https://sourceforge.net/).
-- [Contributor 1] ([@username1](https://github.com/username1) on [Platform]) and [Contributor 2] ([@username2](https://github.com/username2)) took over the project in [Year].
+- PHPMailer was originally written in 2001 by Brent R. Matzelle as a [SourceForge project](https://sourceforge.net/).
+- Marcus Bointon ([@coolbru](https://github.com/coolbru) on SF) and Andy Prevost ([@codeworxtech](https://github.com/codeworxtech)) took over the project in 2004.
+
