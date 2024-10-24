@@ -1,41 +1,16 @@
 # Playground
 +
 + This is repository for testing github desktop
-+ Change readme
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Please submit bug reports, suggestions, and pull requests to the [GitHub issue tracker](https://github.com/PHPMailer/PHPMailer/issues).
 
-Please make sure to update tests as appropriate.
+We're particularly interested in fixing edge-cases, expanding test coverage, and updating translations.
 
-## License
+If you found a mistake in the docs, or want to add something, go ahead and amend the wiki — anyone can edit it.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+If you have git clones from prior to the move to the PHPMailer GitHub organization, you'll need to update any remote URLs referencing the old GitHub location with a command like this from within your clone:
+
+```bash
+git remote set-url upstream https://github.com/PHPMailer/PHPMailer.git
+```
