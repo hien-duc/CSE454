@@ -1,0 +1,76 @@
+/*
+Theme Name: CSE 454 Author: FL
+Description: Test theme Version: 1.0;
+*/
+img {
+max-width: 100%;
+height: auto;
+}
+header {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #111;
+	color: #fff;
+}
+.logo {
+	max-height: 50px;
+	width: auto;
+	max-width: 100%;
+}
+.main-menu {
+	list-style: none;
+	margin: 0px;
+	padding: 0;
+	display: flex;
+	justify-content: flex-end;
+}
+.main-menu > li {
+	position: relative;
+}
+.main-menu > li > a {
+	display: block;
+	margin-left: 20px;
+}
+
+.sub-menu {
+	list-style: none;
+	margin: 0;
+	position: absolute;
+	top: 24px;
+	left: 0;
+	min-width: 200px;
+	border: 1px solid blue;
+	border-radius: 8px;
+	padding: 10px;
+	z-index: 10;
+	display: none;
+}
+.sub-menu li a {
+	display: block;
+}
+
+.main-menu > li:hover .sub-menu{
+	display: block;
+}
+.products {
+	margin-bottom: 40px;
+}
+.product-title {
+	margin-bottom: 10px;
+}
+.news-title {
+	margin-bottom: 20px;
+}
+.news-group .media img {
+	max-width: 150px;
+}
+footer {
+	background-color: #111;
+	color: #fff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.footer-menu {
+	margin: 0;
+	
+}

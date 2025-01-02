@@ -1,0 +1,94 @@
+/* Custom styles */
+.san-pham {
+    margin-bottom: 30px;
+}
+
+.san-pham-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.san-pham-image img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.san-pham:hover .san-pham-image img {
+    transform: scale(1.05);
+}
+
+.san-pham-info {
+    background: #f8f9fa;
+    padding: 15px;
+}
+
+.san-pham-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    min-height: 48px;
+}
+
+.san-pham-price {
+    color: #dc3545;
+    font-weight: 600;
+}
+
+.san-pham-price span {
+    font-size: 18px;
+}
+
+/* Footer styles */
+.footer-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.footer-diachi {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-diachi li {
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.footer-diachi li i {
+    width: 20px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.footer-diachi li a {
+    color: #fff;
+}
+
+/* Contact button */
+.arcontactus-widget {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    z-index: 1000;
+}
+
+/* Mobile menu */
+@media (max-width: 768px) {
+    .mobile-menu {
+        position: fixed;
+        top: 0;
+        left: -250px;
+        width: 250px;
+        height: 100vh;
+        background: #fff;
+        z-index: 1000;
+        transition: left 0.3s ease;
+    }
+
+    .mobile-menu.active {
+        left: 0;
+    }
+}

@@ -1,0 +1,3 @@
+word press
+username:hienduc
+password:040503

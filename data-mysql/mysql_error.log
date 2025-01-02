@@ -1,0 +1,492 @@
+2024-11-28 13:04:01 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 6632
+2024-11-28 13:04:01 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-11-28 13:04:01 0 [Note] InnoDB: Uses event mutexes
+2024-11-28 13:04:01 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-11-28 13:04:01 0 [Note] InnoDB: Number of pools: 1
+2024-11-28 13:04:01 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-11-28 13:04:01 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-11-28 13:04:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-11-28 13:04:01 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300288
+2024-11-28 13:04:03 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-11-28 13:04:03 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-11-28 13:04:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-11-28 13:04:03 0 [Note] InnoDB: Setting file 'E:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-11-28 13:04:03 0 [Note] InnoDB: File 'E:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2024-11-28 13:04:03 0 [Note] InnoDB: Waiting for purge to start
+2024-11-28 13:04:03 0 [Note] InnoDB: 10.4.32 started; log sequence number 300297; transaction id 170
+2024-11-28 13:04:03 0 [Note] InnoDB: Loading buffer pool(s) from E:\xampp\mysql\data\ib_buffer_pool
+2024-11-28 13:04:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-11-28 13:04:03 0 [Note] Server socket created on IP: '::'.
+2024-11-28 13:12:18 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 6464
+2024-11-28 13:12:18 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-11-28 13:12:18 0 [Note] InnoDB: Uses event mutexes
+2024-11-28 13:12:18 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-11-28 13:12:18 0 [Note] InnoDB: Number of pools: 1
+2024-11-28 13:12:18 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-11-28 13:12:18 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-11-28 13:12:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-11-28 13:12:18 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=304922
+2024-11-28 13:12:18 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-11-28 13:12:18 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-11-28 13:12:18 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-11-28 13:12:18 0 [Note] InnoDB: Setting file 'E:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-11-28 13:12:18 0 [Note] InnoDB: File 'E:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2024-11-28 13:12:18 0 [Note] InnoDB: Waiting for purge to start
+2024-11-28 13:12:18 0 [Note] InnoDB: 10.4.32 started; log sequence number 304931; transaction id 199
+2024-11-28 13:12:18 0 [Note] InnoDB: Loading buffer pool(s) from E:\xampp\mysql\data\ib_buffer_pool
+2024-11-28 13:12:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-11-28 13:12:18 0 [Note] Server socket created on IP: '::'.
+2024-11-28 22:10:12 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 7420
+2024-11-28 22:10:12 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-11-28 22:10:12 0 [Note] InnoDB: Uses event mutexes
+2024-11-28 22:10:12 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-11-28 22:10:12 0 [Note] InnoDB: Number of pools: 1
+2024-11-28 22:10:12 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-11-28 22:10:12 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-11-28 22:10:12 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-11-28 22:10:12 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=13061539
+2024-11-28 22:10:12 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-11-28 22:10:12 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-11-28 22:10:12 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-11-28 22:10:12 0 [Note] InnoDB: Setting file 'E:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-11-28 22:10:12 0 [Note] InnoDB: File 'E:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2024-11-28 22:10:12 0 [Note] InnoDB: Waiting for purge to start
+2024-11-28 22:10:12 0 [Note] InnoDB: 10.4.32 started; log sequence number 13061548; transaction id 17619
+2024-11-28 22:10:12 0 [Note] InnoDB: Loading buffer pool(s) from E:\xampp\mysql\data\ib_buffer_pool
+2024-11-28 22:10:12 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-11-28 22:10:12 0 [Note] Server socket created on IP: '::'.
+2024-11-28 22:17:50 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 8920
+2024-11-28 22:17:50 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 100% (0.0 seconds); 
+2024-11-28 22:17:50 0 [Note] mysqld.exe: Aria engine: recovery done
+2024-11-28 22:17:50 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-11-28 22:17:50 0 [Note] InnoDB: Uses event mutexes
+2024-11-28 22:17:50 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-11-28 22:17:50 0 [Note] InnoDB: Number of pools: 1
+2024-11-28 22:17:50 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-11-28 22:17:50 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-11-28 22:17:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-11-28 22:17:51 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=15534245
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_actionscheduler_actions.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_actionscheduler_actions``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_actionscheduler_actions` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_actionscheduler_claims.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_actionscheduler_claims``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_actionscheduler_claims` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_actionscheduler_groups.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_actionscheduler_groups``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_actionscheduler_groups` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_actionscheduler_logs.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_actionscheduler_logs``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_actionscheduler_logs` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_commentmeta.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_commentmeta``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_commentmeta` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_comments.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_comments``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_comments` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_links.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_links``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_links` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_options.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_options``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_options` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_postmeta.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_postmeta``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_postmeta` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_posts.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_posts``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_posts` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_social_users.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_social_users``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_social_users` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_term_relationships.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_term_relationships``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_term_relationships` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_term_taxonomy.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_term_taxonomy``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_term_taxonomy` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_termmeta.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_termmeta``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_termmeta` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_terms.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_terms``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_terms` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_usermeta.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_usermeta``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_usermeta` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_users.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_users``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_users` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_admin_note_actions.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_admin_note_actions``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_admin_note_actions` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_admin_notes.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_admin_notes``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_admin_notes` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_category_lookup.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_category_lookup``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_category_lookup` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_customer_lookup.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_customer_lookup``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_customer_lookup` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_download_log.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_download_log``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_download_log` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_order_addresses.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_order_addresses``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_order_addresses` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_order_coupon_lookup.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_order_coupon_lookup``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_order_coupon_lookup` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_order_operational_data.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_order_operational_data``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_order_operational_data` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_order_product_lookup.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_order_product_lookup``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_order_product_lookup` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_order_stats.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_order_stats``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_order_stats` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_order_tax_lookup.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_order_tax_lookup``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_order_tax_lookup` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_orders.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_orders``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_orders` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_orders_meta.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_orders_meta``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_orders_meta` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_product_attributes_lookup.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_product_attributes_lookup``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_product_attributes_lookup` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_product_download_directories.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_product_download_directories``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_product_download_directories` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_product_meta_lookup.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_product_meta_lookup``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_product_meta_lookup` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_rate_limits.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_rate_limits``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_rate_limits` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_reserved_stock.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_reserved_stock``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_reserved_stock` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_tax_rate_classes.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_tax_rate_classes``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_tax_rate_classes` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_wc_webhooks.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_wc_webhooks``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_wc_webhooks` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_api_keys.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_api_keys``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_api_keys` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_attribute_taxonomies.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_attribute_taxonomies``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_attribute_taxonomies` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_downloadable_product_permissions.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_downloadable_product_permissions``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_downloadable_product_permissions` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_log.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_log``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_log` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_order_itemmeta.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_order_itemmeta``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_order_itemmeta` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_order_items.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_order_items``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_order_items` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_payment_tokenmeta.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_payment_tokenmeta``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_payment_tokenmeta` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_payment_tokens.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_payment_tokens``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_payment_tokens` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_sessions.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_sessions``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_sessions` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_shipping_zone_locations.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_shipping_zone_locations``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_shipping_zone_locations` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_shipping_zone_methods.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_shipping_zone_methods``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_shipping_zone_methods` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_shipping_zones.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_shipping_zones``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_shipping_zones` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_tax_rate_locations.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_tax_rate_locations``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_tax_rate_locations` because it could not be opened.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\lab8\wp_woocommerce_tax_rates.ibd' OS error: 203
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2024-11-28 22:17:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2024-11-28 22:17:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``lab8`.`wp_woocommerce_tax_rates``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2024-11-28 22:17:51 0 [Warning] InnoDB: Ignoring tablespace for `lab8`.`wp_woocommerce_tax_rates` because it could not be opened.
+2024-11-28 22:17:51 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-11-28 22:17:51 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-11-28 22:17:51 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-11-28 22:17:51 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-11-28 22:17:51 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2024-11-28 22:17:51 0 [Note] InnoDB: Waiting for purge to start
+2024-11-28 22:17:51 2 [ERROR] InnoDB: Expected tablespace id 85 but found 52 in the file .\lab7\wp_options.ibd
+2024-11-28 22:17:51 2 [ERROR] InnoDB: Expected tablespace id 85 but found 52 in the file .\lab7\wp_options.ibd
+2024-11-28 22:17:51 0 [Note] InnoDB: 10.4.32 started; log sequence number 15534254; transaction id 18326
+2024-11-28 22:17:51 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2024-11-28 22:17:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-11-28 22:17:51 0 [Note] Zerofilling moved table:  '.\mysql\plugin'
+2024-11-28 22:17:51 0 [Note] Zerofilling moved table:  '.\mysql\servers'
+2024-11-28 22:17:51 0 [Note] Server socket created on IP: '::'.
+2024-11-28 22:17:51 0 [Note] InnoDB: B
